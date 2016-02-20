@@ -3,6 +3,8 @@ Checks the FITS header for DATE-OBS, EXPTIME, and FILTER values, then renames FI
 
 **Note: before running, you need to install astropy.**
 
+**If you installed the Anaconda Python environment, you don't need to install astropy. It's already installed.**
+
 To install Astropy from source, you can either use
 
 **pip install astropy**
