@@ -14,6 +14,9 @@ Alternatively, you can download a tarball for the latest release of astropy from
 
 **python setup.py install**
 
+Once you install Python and astropy, run the script from the command line with:
+
+**python /path/to/the/script/rename-fits.py --in=/path/to/your/files/ --out=/path/to/renamed-copies/ -i place-your-initials-here**
 
 Usage: renameFITS.py [options]
 
