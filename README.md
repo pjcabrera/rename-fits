@@ -1,6 +1,10 @@
 # rename-fits
 Checks the FITS header for DATE-OBS, EXPTIME, and FILTER values, then renames FITS files to match the ESA/PSA and NASA/PDS archive filename format
 
+Written by PJ Cabrera
+
+With improvements and suggestions by Tony Angel
+
 **Note: before running, you need to install astropy.**
 
 **If you installed the Anaconda Python environment, you don't need to install astropy. It's already installed.**
